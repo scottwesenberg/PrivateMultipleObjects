@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\refint\PrivateMultipleObjects.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\ref\PrivateMultipleObjects.dll
